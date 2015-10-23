@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#myCanvas
+{
+	margin-top: 20px;
+	border: solid 20px #000000;
+	/*border-style: dotted;*/
+	border-style: double;
+	background-color: #FFFFFF;
+}
+
+#export
+{
+	display: block;
+}
